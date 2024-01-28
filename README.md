@@ -22,7 +22,8 @@
   </tr>
 </table>
 
-#### Functionalities: <br/> ![image](https://github.com/AkshaiSivan/BITSAttendanceSystem/assets/66838502/053c88e6-6c2c-48c9-881c-2275fee0e179)
+#### Functionalities:
+![functionalities-img](https://github.com/AkshaiSivan/BITSAttendanceSystem/assets/66838502/a9401974-975d-41ad-9f8a-c810f7379ab9)
 
 #### Sample screenshots of the application:
 ![image1](https://github.com/AkshaiSivan/BITSAttendanceSystem/assets/66838502/8534e43a-0a99-4204-9835-cea777414690)
