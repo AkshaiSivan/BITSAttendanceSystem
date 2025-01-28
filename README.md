@@ -2,25 +2,6 @@
 ## Project: Mobile Attendance Application using Java and SQLite
 ### Emulator: Pixel 3a API 34 extension level 7 x86 64
 
-<h2>Team Members</h2>
-<table style="width:100%">
-  <tr>
-    <th>Name</th>
-    <th>BITS ID</th>
-  </tr>
-  <tr>
-    <td>Akshai S</td>
-    <td>2020WA86396</td>
-  </tr>
-  <tr>
-    <td>Shermi Stephen</td>
-    <td>2020WA86230</td>
-  </tr>
-  <tr>
-    <td>Amritha Varshini R</td>
-    <td>2020WB86039</td>
-  </tr>
-</table>
 
 #### Functionalities:
 ![functionalities-img](https://github.com/AkshaiSivan/BITSAttendanceSystem/assets/66838502/a9401974-975d-41ad-9f8a-c810f7379ab9)
